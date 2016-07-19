@@ -1,0 +1,25 @@
+body {
+    background-color: #fff;
+    color: #000;
+    font-size: 20px;
+    font-family: "Lucida Grande", Veranda, Arial, Helvetica, sans-serif;
+}
+th {
+    width: 20%;
+}
+h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 28px;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    border: 2px solid #666;
+    text-align: center;
+    font-size: 24px;
+}
+#free {
+    background-color: #f66;
+}
